@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ajanda</string>
+    <string name="sil">Sil</string>
+    <string name="listeEditText">Yapılacaklar(Etkinlikler, Program, Hatırlatıcı)</string>
+</resources>
